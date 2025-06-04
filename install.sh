@@ -10,7 +10,7 @@ echo "Masukkan token:"
 read -r TOKEN
 
 # Cek apakah token sesuai
-if [[ "$TOKEN" != "xietyofc" ]]; then
+if [[ "$TOKEN" != "vann" ]]; then
     echo "❌ Token salah! Skrip berhenti."
     exit 1
 fi
